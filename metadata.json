@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
+  "name": "Menssecret",
+  "website": "https://medium.com/@marcel_nagy",
+  "description": "Making Node Setup Effortless.",
   "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "twitter": "https://twitter.com/marcel_nagy"
 }
